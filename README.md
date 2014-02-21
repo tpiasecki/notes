@@ -1,4 +1,5 @@
-notes
-=====
+## Pierwszwe programy w C
 
-notatki pspi
+zwyczajowo (kto to wymyslił??) zaczynamy od programu
+*hallo world*:
+
